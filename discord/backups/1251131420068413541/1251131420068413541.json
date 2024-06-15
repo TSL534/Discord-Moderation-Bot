@@ -1,0 +1,326 @@
+{
+  "channels": [
+    {
+      "id": "1251163197474472140",
+      "name": "nega",
+      "type": 0,
+      "parentID": null,
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1251163395240099910",
+      "name": "pluh-xd",
+      "type": 0,
+      "parentID": null,
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "rateLimitPerUser": 0
+    }
+  ],
+  "roles": [
+    {
+      "id": "1251162892519211089",
+      "name": "┗⎯⎯|🔷|ADMINISTRATION|🔷|⎯⎯┑",
+      "color": "#2f3136",
+      "hoist": false,
+      "position": 7,
+      "permissions": "0",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162889214103563",
+      "name": "❤️❤️❤️|TSL Poki Bear",
+      "color": "#c02424",
+      "hoist": true,
+      "position": 8,
+      "permissions": "974148108410689",
+      "managed": false,
+      "mentionable": true
+    },
+    {
+      "id": "1251162918465044491",
+      "name": "Horny",
+      "color": "#eebbea",
+      "hoist": false,
+      "position": 26,
+      "permissions": "0",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162836630110344",
+      "name": "❤️| Owners GF",
+      "color": "#9218d8",
+      "hoist": true,
+      "position": 29,
+      "permissions": "0",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162850232238121",
+      "name": "💳│ MEMBERS",
+      "color": "#07acb4",
+      "hoist": true,
+      "position": 23,
+      "permissions": "0",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162845429891123",
+      "name": "👑",
+      "color": "#2f3136",
+      "hoist": false,
+      "position": 25,
+      "permissions": "8",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162884424073286",
+      "name": "Truth or Dare",
+      "color": "#000000",
+      "hoist": false,
+      "position": 13,
+      "permissions": "19456",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162881546784799",
+      "name": "🔹| Trial Mod",
+      "color": "#206694",
+      "hoist": true,
+      "position": 10,
+      "permissions": "0",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162920969048135",
+      "name": "🌀│TSL Co Founder",
+      "color": "#6d0404",
+      "hoist": true,
+      "position": 3,
+      "permissions": "1341521601",
+      "managed": false,
+      "mentionable": true
+    },
+    {
+      "id": "1251162915596144751",
+      "name": "InviteLogger",
+      "color": "#000000",
+      "hoist": false,
+      "position": 4,
+      "permissions": "1342500081",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162887041323140",
+      "name": "carl-bot",
+      "color": "#000000",
+      "hoist": false,
+      "position": 9,
+      "permissions": "209046592",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162913465438291",
+      "name": "green",
+      "color": "#23c713",
+      "hoist": false,
+      "position": 21,
+      "permissions": "0",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162879189586092",
+      "name": "☑️| German Cutie",
+      "color": "#0f3be4",
+      "hoist": false,
+      "position": 11,
+      "permissions": "0",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162873963483159",
+      "name": "Oppenheimer",
+      "color": "#000000",
+      "hoist": false,
+      "position": 16,
+      "permissions": "964220537920",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162871904075856",
+      "name": "She/Her",
+      "color": "#e74c3c",
+      "hoist": false,
+      "position": 30,
+      "permissions": "0",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162867160449056",
+      "name": "Muted 1",
+      "color": "#818386",
+      "hoist": false,
+      "position": 15,
+      "permissions": "0",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162861464715417",
+      "name": "💳│Partner",
+      "color": "#c27c0e",
+      "hoist": true,
+      "position": 18,
+      "permissions": "0",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162905555112038",
+      "name": "TSL Ai | Powerd by Open Ai",
+      "color": "#000000",
+      "hoist": false,
+      "position": 5,
+      "permissions": "0",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162843064041523",
+      "name": "🌀│TSL Dev",
+      "color": "#240dd4",
+      "hoist": true,
+      "position": 27,
+      "permissions": "6444731727681",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162908927332495",
+      "name": "purple",
+      "color": "#5115c7",
+      "hoist": false,
+      "position": 20,
+      "permissions": "0",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162923137634326",
+      "name": "😎‖cool",
+      "color": "#e91e63",
+      "hoist": true,
+      "position": 28,
+      "permissions": "0",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162864010530826",
+      "name": "blue",
+      "color": "#1441d1",
+      "hoist": false,
+      "position": 17,
+      "permissions": "0",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162857383530548",
+      "name": "🔓| Bot Premium",
+      "color": "#ec54d8",
+      "hoist": false,
+      "position": 19,
+      "permissions": "281612483087424",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162876572340294",
+      "name": "😎|Server Booster",
+      "color": "#f47fff",
+      "hoist": true,
+      "position": 12,
+      "permissions": "0",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162900546981948",
+      "name": "ServerStats",
+      "color": "#000000",
+      "hoist": false,
+      "position": 6,
+      "permissions": "1166352",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162895534915618",
+      "name": "yellow",
+      "color": "#d4cd26",
+      "hoist": false,
+      "position": 24,
+      "permissions": "0",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162854577405972",
+      "name": "😎‖German",
+      "color": "#1025e0",
+      "hoist": false,
+      "position": 22,
+      "permissions": "0",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162869001621525",
+      "name": "Wick",
+      "color": "#000000",
+      "hoist": false,
+      "position": 14,
+      "permissions": "8",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162928481304637",
+      "name": "┗⎯⎯⎯|🔹|STAFF TEAM|🔹|⎯⎯⎯┑",
+      "color": "#2f3136",
+      "hoist": false,
+      "position": 1,
+      "permissions": "0",
+      "managed": false,
+      "mentionable": false
+    },
+    {
+      "id": "1251162925163614229",
+      "name": "Ticket Tool",
+      "color": "#000000",
+      "hoist": false,
+      "position": 2,
+      "permissions": "2416045072",
+      "managed": false,
+      "mentionable": false
+    }
+  ]
+}
