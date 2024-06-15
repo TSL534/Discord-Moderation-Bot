@@ -1,5 +1,5 @@
 # Discord-Moderation-Bot
-A Simpel Moderation for your Server using json instead a Mongo DB
+A Simple Moderation for your Server using json instead a Mongo DB
 
 1 Make sure to installed node and run it on node 20 / install everything in the package.json file whit nmp i
 2 Put your Bot token in the config File
