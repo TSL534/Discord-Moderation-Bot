@@ -9,6 +9,7 @@ A Simpel Moderation for your Server using json instead a Mongo DB
 
 --------Features--------
 Remove/Add Roles
+
 Get Avatar from you ur adder ppl in the Server
 ban/unban ppl
 create mute role 
